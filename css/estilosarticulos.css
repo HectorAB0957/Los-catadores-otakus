@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* Seccion articulos */
+.articulo{
+	float: left;
+	margin: 2%;
+	padding:  10px;
+	box-sizing: border-box;
+	border: 1px solid #392CE1;
+	background: #AAA4F2
+	
+}
+
+.articulotitle{
+	text-align: center;
+	margin: 0 0 10px
+}
+
+h3{
+	text-align: center;
+}
+
+/* seccion de Catadores*/
+.articuloimg{
+	height: auto;
+	width: 95%;
+}
+.contenedorcatadores{
+	text-align: center;
+	width: 33%;
+	background: #877FEC;
+	align-content: center;
+	margin: auto;
+}
+
+
+
+
