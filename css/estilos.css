@@ -125,7 +125,7 @@ textarea{
 	max-height: 500px;
 }
 
-input, textarea{
+input, textarea, .selector{
 	margin-bottom: 20px;
 	width: 100%;
 	padding: 10px;
